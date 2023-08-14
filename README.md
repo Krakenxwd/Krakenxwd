@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Krakenxwd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Krakenxwd" /></a><a href="https://ko-fi.com/Krakenxwd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Krakenxwd" /></a></p><br><br>
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/Krakenxwd/Krakenxw6/blob/output/github-contribution-grid-snake.svg)
